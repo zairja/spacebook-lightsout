@@ -15,4 +15,4 @@ eleventyNavigation:
 
 ![grosbeak](/static/img/grosbeak.jpg)
 
-->The Rose-Breasted Grosbeak (Pheucticus ludovicianus) is a stunning migrant that passes through the RGV.<-
+->_The Rose-Breasted Grosbeak (Pheucticus ludovicianus) is a stunning migrant that passes through the RGV._<-
