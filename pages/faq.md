@@ -6,7 +6,6 @@ eleventyNavigation:
   order: 100
   key: FAQ
   title: FAQ
-  parent: "  "
 ---
 ![](/static/img/faq1.jpg)
 
