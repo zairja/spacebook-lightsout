@@ -9,13 +9,10 @@ eleventyNavigation:
   key: Learn More
   title: Learn More
 ---
-<!--StartFragment-->
-
 [Light pollution is greatest within migration passage areas for nocturnally-migrating birds around the world](https://www.nature.com/articles/s41598-018-21577-6#:~:text=It%20is%20well%20known%20that,specific%20effect%20among%20nocturnal%20migrants.)
 
 [Effect of anthropogenic light on bird movement, habitat selection, and distribution: a systematic map protocol](https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-019-0155-5)
 
 ![grosbeak](/static/img/grosbeak.jpg)
-->The Rose-Breasted Grosbeak (Pheucticus ludovicianus) is a stunning migrant that passes through the RGV.<-
 
-<!--EndFragment-->
+->The Rose-Breasted Grosbeak (Pheucticus ludovicianus) is a stunning migrant that passes through the RGV.<-
