@@ -10,8 +10,8 @@ eleventyNavigation:
 ---
 
 
-https://www.instagram.com/p/CGoF8AGl6wQ/
+instagram.com/p/CGoF8AGl6wQ/
 
 
 
-https://www.instagram.com/p/CGoE0Mll2vp/
+instagram.com/p/CGoE0Mll2vp/
