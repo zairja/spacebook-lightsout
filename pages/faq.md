@@ -8,10 +8,8 @@ eleventyNavigation:
   title: FAQ
   parent: "  "
 ---
-
-
-instagram.com/p/CGoF8AGl6wQ/
+![](/static/img/faq1.jpg)
 
 
 
-instagram.com/p/CGoE0Mll2vp/
+![](/static/img/faq2.jpg)
