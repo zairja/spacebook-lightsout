@@ -1,11 +1,11 @@
 ---
-title: Getting started
+title: Get Started
 date: 2020-11-20
 permalink: /
 toc: true
 eleventyNavigation:
   key: Home
-  title: Getting started
+  title: Get Started
   order: 0
 ---
 
@@ -31,3 +31,7 @@ As students, faculty, staff, and community members of the RGV, please [sign this
 :::
 
 Thank you!
+
+::: callout-green
+[Follow us on Instagram!](https://www.instagram.com/lightsoututrgv/)
+:::
