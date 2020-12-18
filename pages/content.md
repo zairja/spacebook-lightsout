@@ -16,7 +16,6 @@ eleventyNavigation:
 [Effect of anthropogenic light on bird movement, habitat selection, and distribution: a systematic map protocol](https://environmentalevidencejournal.biomedcentral.com/articles/10.1186/s13750-019-0155-5)
 
 ![grosbeak](/static/img/grosbeak.jpg)
-
-\->The Rose-Breasted Grosbeak (Pheucticus ludovicianus) is a stunning migrant that passes through the RGV.<-
+->The Rose-Breasted Grosbeak (Pheucticus ludovicianus) is a stunning migrant that passes through the RGV.<-
 
 <!--EndFragment-->
