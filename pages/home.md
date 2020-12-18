@@ -1,13 +1,15 @@
 ---
-title: Get Started
+title: Save Bird Lives
 date: 2020-11-20
 permalink: /
 toc: true
 eleventyNavigation:
   key: Home
-  title: Get Started
+  title: Save Bird Lives
   order: 0
 ---
+
+## Our Petition ##
 
 In the USA, bird mortality from building collisions amounts to *at least* ***1 BILLION*** birds every single year ([npr.org](https://www.npr.org/2019/04/07/710847132/big-cities-bright-lights-and-up-to-1-billion-bird-collisions#:~:text=via%20Getty%20Images-,One%20World%20Trade%20Center%20(WTC)%20stands%20in%20the%20lower%20Manhattan,8%2C%202019.&text=Up%20to%201%20billion%20birds,are%20making%20the%20problem%20worse.))! A large part of these deaths are due to light pollution unnecessarily emitted from buildings, especially **at night** when not in use. Light pollution disorients and confuse birds in flight, luring them into dangerous territory dominated by large structures that they can strike. The majority of birds, including songbirds you might be most familiar with, migrate across the continent and through the Rio Grande Valley, TX, migrate **at night** ([darksky.org](https://www.darksky.org/light-pollution-poses-threat-to-migrating-birds/)). 
 
