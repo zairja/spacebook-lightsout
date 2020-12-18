@@ -7,7 +7,6 @@ eleventyNavigation:
   key: Home
   title: Getting started
   order: 0
-  parent: " "
 ---
 <!--StartFragment-->
 
