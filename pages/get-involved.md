@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 100
   key: Get Involved
   title: Get Involved
-  parent: Home
+  parent: Learn More
 ---
 ![](/static/img/the_university_of_texas_rio_grande_valley_official_logo.png)
 
