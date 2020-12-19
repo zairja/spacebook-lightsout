@@ -13,7 +13,7 @@
   "footer": "Forked with ❤️️ by Zairja",
   "enableDarkMode": true,
   "description": "A student-led initiative to transition the UTRGV campuses to become more bird-friendly by reducing light pollution, adapting windows, planting habitat",
-  "enableContact": true,
+  "enableContact": false,
   "enableNetlifyCMS": true,
   "enableEditButton": false
 }
