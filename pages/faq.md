@@ -1,6 +1,6 @@
 ---
 title: FAQ
-date: 2020-12-18T02:43:40.685Z
+date: 2020-12-19T02:43:40.685Z
 permalink: /faq.htm
 eleventyNavigation:
   order: 100
